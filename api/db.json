@@ -1,0 +1,1006 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Vettaiyan",
+      "language": "Tamil",
+      "rating": 4.6,
+      "category": "Action/Thriller",
+      "type": "2D/IMAX",
+      "duration": "163 mins",
+      "certificate": "UA",
+      "releaseDate": "2024-10-10",
+      "price": 200,
+      "description": "A veteran police officer takes on a corrupt educational system while navigating a high-stakes investigation.",
+      "cast": [
+        {
+          "name": "Rajinikanth",
+          "image": "https://placehold.co/100x100?text=Rajini"
+        },
+        {
+          "name": "Fahadh Faasil",
+          "image": "https://placehold.co/100x100?text=Fahadh"
+        }
+      ],
+      "trailerUrl": "https://www.youtube.com/watch?v=vettaiyan",
+      "posterUrl": "https://i.pinimg.com/1200x/fe/99/bb/fe99bbd358013122bdeb0250891bbaec.jpg"
+    },
+    {
+      "title": "Jailer",
+      "language": "Tamil",
+      "rating": 4.9,
+      "category": "Action/Thriller",
+      "type": "2D",
+      "duration": "169 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-08-10",
+      "price": 190,
+      "description": "A retired jailer goes on a warpath to protect his family and retrieve his kidnapped son.",
+      "cast": "rajinikanth,ramyakrishnan",
+      "trailerUrl": "https://www.youtube.com/watch?v=jailer",
+      "posterUrl": "https://i.pinimg.com/736x/13/19/58/1319585ab411ddb886852202c4745652.jpg",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Leo",
+      "language": "Tamil",
+      "rating": 4.7,
+      "category": "Action/Crime",
+      "type": "2D/IMAX",
+      "duration": "164 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-10-19",
+      "price": 220,
+      "description": "A quiet family man is forced to confront his past when a dangerous drug cartel comes knocking.",
+      "cast": [
+        {
+          "name": "Vijay",
+          "image": "https://placehold.co/100x100?text=Vijay"
+        }
+      ],
+      "trailerUrl": "https://www.youtube.com/watch?v=leo",
+      "posterUrl": "https://i.pinimg.com/1200x/16/a6/4e/16a64e863603354262e7ec0b43e8601a.jpg"
+    },
+    {
+      "title": "Master",
+      "language": "Tamil",
+      "rating": 4.5,
+      "category": "Action/Drama",
+      "type": "2D",
+      "duration": "178 mins",
+      "certificate": "UA",
+      "releaseDate": "2021-01-13",
+      "price": 180,
+      "description": "An alcoholic professor takes a job at a juvenile home and faces off against a ruthless gangster.",
+      "cast": "Vijay,Vijay sethupathi",
+      "trailerUrl": "https://www.youtube.com/watch?v=master",
+      "posterUrl": "https://i.pinimg.com/1200x/bd/a1/41/bda1412eb07263373a08479e9c84ab59.jpg",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "title": "Doctor",
+      "language": "Tamil",
+      "rating": 4.6,
+      "category": "Action/Comedy",
+      "type": "2D",
+      "duration": "148 mins",
+      "certificate": "UA",
+      "releaseDate": "2021-10-09",
+      "price": 150,
+      "description": "A stoic military doctor lead a quirky family to rescue a kidnapped girl from a human trafficking ring.",
+      "cast": [
+        {
+          "name": "Sivakarthikeyan",
+          "image": "https://placehold.co/100x100?text=SK"
+        }
+      ],
+      "trailerUrl": "https://www.youtube.com/watch?v=doctor",
+      "posterUrl": "https://i.pinimg.com/1200x/9d/b2/fb/9db2fb3640932063ae21f170f695bbcf.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Amaran",
+      "language": "Tamil",
+      "rating": 4.8,
+      "category": "Biopic/Action",
+      "type": "2D",
+      "duration": "165 mins",
+      "certificate": "UA",
+      "releaseDate": "2024-10-31",
+      "price": 210,
+      "description": "The heroic true story of Major Mukund Varadarajan and his sacrifice in the line of duty.",
+      "cast": [
+        {
+          "name": "Sivakarthikeyan",
+          "image": "https://placehold.co/100x100?text=SK"
+        }
+      ],
+      "trailerUrl": "https://www.youtube.com/watch?v=amaran",
+      "posterUrl": "https://i.pinimg.com/736x/a7/7e/28/a77e284315f2e6c20f9d37703496a914.jpg"
+    },
+    {
+      "title": "96",
+      "language": "Tamil",
+      "rating": 4.3,
+      "category": "Romance/Drama",
+      "type": "2D",
+      "duration": "158 mins",
+      "certificate": "UA",
+      "releaseDate": "2018-10-04",
+      "price": 190,
+      "description": "A rush of nostalgia engulfs a travel photographer after he visits his school. However, destiny reunites him with his childhood sweetheart at a school reunion with his friends.",
+      "cast": "Vijay sethupathi, thrisha",
+      "trailerUrl": "https://www.youtube.com/watch?v=r0synl-lI4I&list=RDr0synl-lI4I&start_radio=1",
+      "posterUrl": "https://i.pinimg.com/736x/6c/83/c3/6c83c34dc15dd89238914f6b3b361161.jpg",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "title": "Love Insurance Kompany",
+      "language": "Tamil",
+      "rating": 4.4,
+      "category": "Drama/Sci-Fi",
+      "type": "2D",
+      "duration": "140 mins",
+      "certificate": "UA",
+      "releaseDate": "2026-04-10",
+      "price": 170,
+      "description": "In a future world, a company offers insurance policies for failed relationships.",
+      "cast": [
+        {
+          "name": "Pradeep Ranganathan",
+          "image": "https://placehold.co/100x100?text=Pradeep"
+        }
+      ],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/91/3a/58/913a584d2a447815843268be1fb2bcde.jpg"
+    },
+    {
+      "id": "9",
+      "title": "The Greatest of All Time (GOAT)",
+      "language": "Tamil",
+      "rating": 4.5,
+      "category": "Action/Sci-Fi",
+      "type": "2D/IMAX",
+      "duration": "175 mins",
+      "certificate": "UA",
+      "releaseDate": "2024-09-05",
+      "price": 250,
+      "description": "A special agent discovers a shocking secret from his past while on a mission to stop a terrorist.",
+      "cast": [
+        {
+          "name": "Vijay",
+          "image": "https://placehold.co/100x100?text=Vijay"
+        }
+      ],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/2f/e1/67/2fe16745e5f855f687476fe73fc8cb02.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Vikram",
+      "language": "Tamil",
+      "rating": 4.9,
+      "category": "Action/Thriller",
+      "type": "2D/IMAX",
+      "duration": "173 mins",
+      "certificate": "UA",
+      "releaseDate": "2022-06-03",
+      "price": 200,
+      "description": "A black-ops agent hunts down a group of masked vigilantes who are targeting drug lords.",
+      "cast": [
+        {
+          "name": "Kamal Haasan",
+          "image": "https://placehold.co/100x100?text=Kamal"
+        }
+      ],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/e2/48/f1/e248f1db02f1dfeb60c4be3e58c72cc7.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Maharaja",
+      "language": "Tamil",
+      "rating": 4.8,
+      "category": "Action/Thriller",
+      "type": "2D",
+      "duration": "142 mins",
+      "certificate": "UA",
+      "releaseDate": "2024-06-14",
+      "price": 180,
+      "description": "A barber seeks vengeance after his home is broken into and something precious is stolen.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/b6/e0/74/b6e07458c796c999af9156c541686522.jpg"
+    },
+    {
+      "title": "Dude",
+      "language": "Tamil",
+      "rating": 4.7,
+      "category": "Drama/Action",
+      "type": "2D",
+      "duration": "150 mins",
+      "certificate": "A",
+      "releaseDate": "2023-03-31",
+      "price": 160,
+      "description": "A rookie police officer finds himself conflicted during a operation to capture a rebel leader.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/78/a0/41/78a041825d2b9f91624348fdbf85359e.jpg",
+      "id": "12"
+    },
+    {
+      "id": "13",
+      "title": "Maaveeran",
+      "language": "Tamil",
+      "rating": 4.5,
+      "category": "Fantasy/Action",
+      "type": "2D",
+      "duration": "163 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-07-14",
+      "price": 170,
+      "description": "A timid cartoonist starts hearing a voice that dictates his actions and turns him into a hero.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/dc/fe/9e/dcfe9e09e335010b83835ff5ef028d8a.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Raayan",
+      "language": "Tamil",
+      "rating": 4.4,
+      "category": "Action/Drama",
+      "type": "2D",
+      "duration": "145 mins",
+      "certificate": "A",
+      "releaseDate": "2024-07-26",
+      "price": 180,
+      "description": "A young man fights to protect his family in the underbelly of North Chennai.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/6b/2f/2e/6b2f2ed1a2007819c69b8c1d6595cd36.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Kanguva",
+      "language": "Tamil",
+      "rating": 4.2,
+      "category": "Action/Fantasy",
+      "type": "2D/3D",
+      "duration": "154 mins",
+      "certificate": "UA",
+      "releaseDate": "2024-11-14",
+      "price": 250,
+      "description": "A story that spans centuries, following a warrior's quest for duty and honor.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/75/56/d6/7556d6b491a8e4a34594cdc8af45197c.jpg"
+    },
+    {
+      "title": "Mersal",
+      "language": "Tamil",
+      "rating": 4.6,
+      "category": "Action/Thriller",
+      "type": "2D/IMAX",
+      "duration": "167 mins",
+      "certificate": "U/A",
+      "releaseDate": "2018-09-06",
+      "price": 200,
+      "description": "The epic talAn Indian doctor returns home to tackle a looming health threat and uncovers the truth behind his father s mysterious death in the processe of the Chola dynasty and the struggle for the throne.",
+      "cast": "vijay,samantha,kajal agarwal,vadivelu,sj.suriya",
+      "trailerUrl": "https://www.youtube.com/watch?v=gQDo5QuZTaw",
+      "posterUrl": "https://i.pinimg.com/736x/1b/fb/36/1bfb36dbafeeb91ba34384d01d564f3b.jpg",
+      "id": "16"
+    },
+    {
+      "id": "17",
+      "title": "Good Night",
+      "language": "Tamil",
+      "rating": 4.4,
+      "category": "Romance/Comedy",
+      "type": "2D",
+      "duration": "142 mins",
+      "certificate": "U",
+      "releaseDate": "2023-05-12",
+      "price": 130,
+      "description": "A lighthearted look at a man whose snoring creates chaos in his life and marriage.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/14/c7/9b/14c79bde2d4f072f93af0514e05755e9.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Parking",
+      "language": "Tamil",
+      "rating": 4.5,
+      "category": "Thriller/Drama",
+      "type": "2D",
+      "duration": "127 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-12-01",
+      "price": 140,
+      "description": "A dispute over a parking spot between two neighbors escalates into a dangerous psychological war.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/73/30/f8/7330f8ea1c74ee878373ae3eaa419337.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Lubber Pandhu",
+      "language": "Tamil",
+      "rating": 4.6,
+      "category": "Sports/Drama",
+      "type": "2D",
+      "duration": "150 mins",
+      "certificate": "U",
+      "releaseDate": "2024-09-20",
+      "price": 150,
+      "description": "A competitive street cricket match leads to deeper emotional and social revelations.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/8b/9a/05/8b9a05d9291e6e027394f5a884050e5e.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Garudan",
+      "language": "Tamil",
+      "rating": 4.3,
+      "category": "Action/Drama",
+      "type": "2D",
+      "duration": "135 mins",
+      "certificate": "UA",
+      "releaseDate": "2024-05-31",
+      "price": 160,
+      "description": "A loyal man finds himself caught between his duty and his conscience.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/df/71/a9/df71a9fd4a86cbd742aa7599852f4b2e.jpg"
+    },
+    {
+      "title": "Bigil",
+      "language": "Tamil",
+      "rating": 4.2,
+      "category": "Sport/Action",
+      "type": "2D",
+      "duration": "150 mins",
+      "certificate": "UA",
+      "releaseDate": "2019-11-12",
+      "price": 180,
+      "description": "Michael, an aggressive young man, gives up his dream of becoming a footballer after his father's murder. However, a friend convinces him to coach a women's football team and turn his life around.",
+      "cast": "Vijay,Nayanthara",
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/90/bd/fa/90bdfa145e7589d89a463cf49e637c38.jpg",
+      "id": "21"
+    },
+    {
+      "id": "22",
+      "title": "Thug Life",
+      "language": "Tamil",
+      "rating": 4.7,
+      "category": "Action/Crime",
+      "type": "2D",
+      "duration": "160 mins",
+      "certificate": "UA",
+      "releaseDate": "2025-06-05",
+      "price": 220,
+      "description": "A grand gangster epic spanning decades and exploring the darker side of survival.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/42/6b/50/426b504b5b05cbb095e9bc0f5bfc37b6.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Dragon",
+      "language": "Tamil",
+      "rating": 4.1,
+      "category": "Fantasy/Comedy",
+      "type": "2D",
+      "duration": "140 mins",
+      "certificate": "UA",
+      "releaseDate": "2025-08-15",
+      "price": 160,
+      "description": "A quirky young man discovers he has a unique connection to an ancient mythical beast.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/0f/09/8d/0f098d348e23ec60fb414ad28749e50f.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Coolie",
+      "language": "Tamil",
+      "rating": 4.8,
+      "category": "Action/Thriller",
+      "type": "2D/IMAX",
+      "duration": "165 mins",
+      "certificate": "UA",
+      "releaseDate": "2025-10-24",
+      "price": 240,
+      "description": "A man of the people fights against high-level smuggling and corruption.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/4d/76/60/4d7660dc42865794638eb132a7de2214.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Star",
+      "language": "Tamil",
+      "rating": 4.4,
+      "category": "Drama/Coming-of-age",
+      "type": "2D",
+      "duration": "158 mins",
+      "certificate": "UA",
+      "releaseDate": "2024-05-10",
+      "price": 150,
+      "description": "The journey of an aspiring actor who faces numerous setbacks before reaching for the stars.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/6a/82/c5/6a82c5a9398a752eefd40cdc2de8c3fc.jpg"
+    },
+    {
+      "id": "26",
+      "title": "F1",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.8,
+      "category": "Sports/Action",
+      "type": "IMAX",
+      "duration": "135 mins",
+      "certificate": "UA",
+      "releaseDate": "2025-06-27",
+      "price": 350,
+      "description": "Sonny Hayes, a legendary driver who left the sport years ago, returns to Formula 1 to mentor a hotshot rookie at the struggling APXGP team.",
+      "cast": [
+        {
+          "name": "Brad Pitt",
+          "image": "https://placehold.co/100x100?text=Brad+Pitt"
+        },
+        {
+          "name": "Damson Idris",
+          "image": "https://placehold.co/100x100?text=Damson"
+        }
+      ],
+      "trailerUrl": "https://www.youtube.com/watch?v=f1",
+      "posterUrl": "https://i.pinimg.com/1200x/df/a6/e6/dfa6e65886e3ad219a7d66170767774c.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Gran Turismo",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.5,
+      "category": "Action/Sports",
+      "type": "2D",
+      "duration": "134 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-08-25",
+      "price": 300,
+      "description": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won a series of Nissan competitions to become a professional race car driver.",
+      "cast": [
+        {
+          "name": "Archie Madekwe",
+          "image": "https://placehold.co/100x100?text=Archie"
+        }
+      ],
+      "trailerUrl": "https://www.youtube.com/watch?v=gt",
+      "posterUrl": "https://i.pinimg.com/736x/0f/b5/ca/0fb5ca40e048b7f49d54fc8cd10cb373.jpg"
+    },
+    {
+      "id": "28",
+      "title": "Project Hail Mary",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.9,
+      "category": "Sci-Fi",
+      "type": "IMAX 3D",
+      "duration": "142 mins",
+      "certificate": "UA",
+      "releaseDate": "2026-03-20",
+      "price": 380,
+      "description": "An astronaut wakes up on a spaceship with no memory of who he is or how he got there, realizing he must save humanity using science and a new alien ally.",
+      "cast": [
+        {
+          "name": "Ryan Gosling",
+          "image": "https://placehold.co/100x100?text=Ryan+G"
+        }
+      ],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/6b/f0/a3/6bf0a35f88e74bf7c6d876776555059b.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Avengers: Doomsday",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.9,
+      "category": "Action/Sci-Fi",
+      "type": "IMAX 3D",
+      "duration": "160 mins",
+      "certificate": "UA",
+      "releaseDate": "2026-05-01",
+      "price": 400,
+      "description": "The Avengers face their greatest threat yet as Victor von Doom emerges to reshape reality in his own image.",
+      "cast": [
+        {
+          "name": "Robert Downey Jr.",
+          "image": "https://placehold.co/100x100?text=RDJ"
+        }
+      ],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/42/00/da/4200dae9ac7b15a5c65375cbfaceaa69.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Spider-Man: Brand New Day",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.7,
+      "category": "Action/Adventure",
+      "type": "2D/3D",
+      "duration": "135 mins",
+      "certificate": "UA",
+      "releaseDate": "2026-07-24",
+      "price": 320,
+      "description": "Peter Parker balances his new life in college with a mysterious new threat emerging from the shadows of New York.",
+      "cast": [
+        {
+          "name": "Tom Holland",
+          "image": "https://placehold.co/100x100?text=Tom+H"
+        }
+      ],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/7f/80/5d/7f805dd9bacebaa67f0789c4117aa3e6.jpg"
+    },
+    {
+      "id": "31",
+      "title": "Oppenheimer",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.9,
+      "category": "Biography/Drama",
+      "type": "IMAX 70mm",
+      "duration": "180 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-07-21",
+      "price": 350,
+      "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+      "cast": [
+        {
+          "name": "Cillian Murphy",
+          "image": "https://placehold.co/100x100?text=Cillian"
+        }
+      ],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/6b/a6/31/6ba63121c140b56f1d5ec47cda83a5c8.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Dune: Part Two",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.9,
+      "category": "Sci-Fi",
+      "type": "IMAX",
+      "duration": "166 mins",
+      "certificate": "UA",
+      "releaseDate": "2024-03-01",
+      "price": 340,
+      "description": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/b7/95/44/b795447414c34b18eddc91fdea0fffef.jpg"
+    },
+    {
+      "id": "33",
+      "title": "Top Gun: Maverick",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.8,
+      "category": "Action",
+      "type": "2D/IMAX",
+      "duration": "130 mins",
+      "certificate": "UA",
+      "releaseDate": "2022-05-27",
+      "price": 280,
+      "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront the ghosts of his past.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/ca/59/f7/ca59f7a79864228766d432f587f2e0a4.jpg"
+    },
+    {
+      "id": "34",
+      "title": "The Batman",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.7,
+      "category": "Crime/Action",
+      "type": "2D",
+      "duration": "176 mins",
+      "certificate": "UA",
+      "releaseDate": "2022-03-04",
+      "price": 250,
+      "description": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/f1/f5/b0/f1f5b0360e9c7baf073d931ab31a7c0e.jpg"
+    },
+    {
+      "id": "35",
+      "title": "John Wick: Chapter 4",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.8,
+      "category": "Action",
+      "type": "2D",
+      "duration": "169 mins",
+      "certificate": "A",
+      "releaseDate": "2023-03-24",
+      "price": 240,
+      "description": "John Wick uncovers a path to defeating The High Table, but must face a new enemy with powerful alliances.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/5e/05/43/5e05435115b807d7ae9a83edbb7532db.jpg"
+    },
+    {
+      "id": "36",
+      "title": "Avatar: The Way of Water",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.7,
+      "category": "Sci-Fi/Adventure",
+      "type": "3D/IMAX",
+      "duration": "192 mins",
+      "certificate": "UA",
+      "releaseDate": "2022-12-16",
+      "price": 380,
+      "description": "Jake Sully lives with his newfound family on the extrasolar moon Pandora. Once a familiar threat returns, he must work with Neytiri and the army of the Na'vi race.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/b2/f8/43/b2f843111df8347133dca44dc2c5f57b.jpg"
+    },
+    {
+      "id": "37",
+      "title": "Deadpool & Wolverine",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.9,
+      "category": "Action/Comedy",
+      "type": "2D/3D",
+      "duration": "127 mins",
+      "certificate": "A",
+      "releaseDate": "2024-07-26",
+      "price": 300,
+      "description": "The Merc with a Mouth teams up with the mutant Wolverine to change the history of the MCU.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/51/61/3e/51613e963017cc89584a586e3d41273b.jpg"
+    },
+    {
+      "id": "38",
+      "title": "Inside Out 2",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.6,
+      "category": "Animation",
+      "type": "2D",
+      "duration": "96 mins",
+      "certificate": "U",
+      "releaseDate": "2024-06-14",
+      "price": 220,
+      "description": "Follow Riley, in her teenage years, encountering new emotions.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/a0/bf/eb/a0bfebcc8b0532bfe616e66b709a04be.jpg"
+    },
+    {
+      "id": "39",
+      "title": "The Super Mario Bros. Movie",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.5,
+      "category": "Animation",
+      "type": "2D",
+      "duration": "92 mins",
+      "certificate": "U",
+      "releaseDate": "2023-04-05",
+      "price": 200,
+      "description": "A plumber named Mario travels through an underground labyrinth with his brother, Luigi, trying to save a captured princess.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/c0/b4/c4/c0b4c415003de025f7b0e54378272653.jpg"
+    },
+    {
+      "id": "40",
+      "title": "Mortal Kombat II",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.3,
+      "category": "Action/Fantasy",
+      "type": "2D",
+      "duration": "110 mins",
+      "certificate": "A",
+      "releaseDate": "2026-05-14",
+      "price": 310,
+      "description": "The tournament continues with higher stakes and new legendary fighters.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/73/49/3a/73493a1ad602947aa9345155f69c0c30.jpg"
+    },
+    {
+      "id": "41",
+      "title": "Godzilla x Kong: The New Empire",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.4,
+      "category": "Action/Sci-Fi",
+      "type": "2D/3D",
+      "duration": "115 mins",
+      "certificate": "UA",
+      "releaseDate": "2024-03-29",
+      "price": 260,
+      "description": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/86/fc/93/86fc9334af36cdd450e8ef4ea289d94e.jpg"
+    },
+    {
+      "id": "42",
+      "title": "Furiosa: A Mad Max Saga",
+      "language": "English",
+      "languagesAvailable": [
+        "English"
+      ],
+      "rating": 4.3,
+      "category": "Action/Adventure",
+      "type": "2D/IMAX",
+      "duration": "148 mins",
+      "certificate": "A",
+      "releaseDate": "2024-05-24",
+      "price": 280,
+      "description": "The origin story of renegade warrior Furiosa before she teamed up with Mad Max.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/a6/5f/e5/a65fe533096f92828113b4b880b5ee07.jpg"
+    },
+    {
+      "id": "43",
+      "title": "Joker: Folie à Deux",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4,
+      "category": "Crime/Musical",
+      "type": "2D",
+      "duration": "138 mins",
+      "certificate": "A",
+      "releaseDate": "2024-10-04",
+      "price": 240,
+      "description": "Failed comedian Arthur Fleck meets the love of his life, Harley Quinn, while incarcerated at Arkham State Hospital.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/20/24/61/202461561d47628c08c9f91e76d3d7c0.jpg"
+    },
+    {
+      "id": "44",
+      "title": "Blue Beetle",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.1,
+      "category": "Action/Sci-Fi",
+      "type": "2D",
+      "duration": "127 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-08-18",
+      "price": 190,
+      "description": "An alien relic chooses Jaime Reyes to be its symbiotic host, bestowing the teenager with a suit of armor that changes his life.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/736x/00/54/80/005480d9189cb253a62f760983a90933.jpg"
+    },
+    {
+      "id": "45",
+      "title": "Fast X",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.2,
+      "category": "Action",
+      "type": "2D",
+      "duration": "141 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-05-19",
+      "price": 220,
+      "description": "Dom Toretto and his family are targeted by the vengeful son of drug lord Hernan Reyes.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/c8/01/81/c801810e72bf7add43ff85351d008854.jpg"
+    },
+    {
+      "id": "46",
+      "title": "Mission: Impossible - Dead Reckoning",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.7,
+      "category": "Action",
+      "type": "2D",
+      "duration": "163 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-07-12",
+      "price": 260,
+      "description": "Ethan Hunt and his IMF team must track down a dangerous new weapon that threatens all of humanity.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/7e/a3/99/7ea399e4b592a0b969d77916a93e001a.jpg"
+    },
+    {
+      "id": "47",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.6,
+      "category": "Sci-Fi/Action",
+      "type": "2D",
+      "duration": "150 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-05-05",
+      "price": 250,
+      "description": "The Guardians must protect Rocket from a figure from his past to save the team.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/8c/d1/ea/8cd1ea9ac6ac5969df2163d7056ba4f3.jpg"
+    },
+    {
+      "id": "48",
+      "title": "The Flash",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 3.9,
+      "category": "Action/Sci-Fi",
+      "type": "2D",
+      "duration": "144 mins",
+      "certificate": "UA",
+      "releaseDate": "2023-06-16",
+      "price": 200,
+      "description": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without superheroes.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/85/ae/77/85ae77b56085ea73c502c33c09c71d86.jpg"
+    },
+    {
+      "id": "49",
+      "title": "Sonic the Hedgehog 3",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.4,
+      "category": "Adventure/Comedy",
+      "type": "2D",
+      "duration": "105 mins",
+      "certificate": "U",
+      "releaseDate": "2024-12-20",
+      "price": 210,
+      "description": "Sonic, Knuckles, and Tails must face a powerful new adversary, Shadow the Hedgehog.",
+      "cast": [],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/2a/5b/1c/2a5b1c4efb0ce31f2410dcece15455f0.jpg"
+    },
+    {
+      "id": "50",
+      "title": "Mercy",
+      "language": "English",
+      "languagesAvailable": [
+        "English",
+        "Tamil"
+      ],
+      "isDubbed": true,
+      "rating": 4.1,
+      "category": "Action/Sci-Fi",
+      "type": "2D",
+      "duration": "120 mins",
+      "certificate": "UA",
+      "releaseDate": "2026-04-23",
+      "price": 300,
+      "description": "A detective in the near future is charged with a crime he didn't commit and must go on the run to clear his name.",
+      "cast": [
+        {
+          "name": "Chris Pratt",
+          "image": "https://placehold.co/100x100?text=Chris+P"
+        }
+      ],
+      "trailerUrl": "",
+      "posterUrl": "https://i.pinimg.com/1200x/94/13/3c/94133cd127fc65ca9fde1acd87c5f9b2.jpg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
