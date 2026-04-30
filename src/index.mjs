@@ -141,3 +141,35 @@ app.put("/api/edit-event/:id", async (req, res) => {
     console.log(`✅ Event ${numericId} updated successfully`);
     res.json(data);
 });
+
+
+app.get("/api/teams", async (req, res) => {
+    try {
+        const { data, error } = await supabase
+            .from('teams') 
+            .select('*')
+            .order('id', { ascending: true }); // Sort by soonest date first
+
+        if (error) throw error;
+        res.status(200).json(data);
+    } catch (error) {
+        console.error("Backend Error:", error.message);
+        res.status(500).json({ error: "Failed to fetch events" });
+    }
+});
+
+
+app.get("/api/matches", async (req, res) => {
+    try {
+        const { data, error } = await supabase
+            .from('matches') 
+            .select('*')
+            .order('id', { ascending: true }); // Sort by soonest date first
+
+        if (error) throw error;
+        res.status(200).json(data);
+    } catch (error) {
+        console.error("Backend Error:", error.message);
+        res.status(500).json({ error: "Failed to fetch events" });
+    }
+});
